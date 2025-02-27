@@ -13,6 +13,7 @@ Acuhi Polythecnic
 - Developed interactive dashboards and visualizations using tools such as Tableau and Power BI, resulting in a 30% improvement in reporting efficiency.
 - Conducted data cleaning and preprocessing to ensure accuracy and reliability, leading to enhanced data integrity in ongoing projects.
 -  Additionally, performed A/B testing and statistical analysis to evaluate marketing campaigns, which contributed to a 15% increase in customer engagement.
+-  Implemented process improvements and automation solutions, resulting in 15% increase in productivity.
 
 ### 
 **ECOMMERCE PROJECT**
