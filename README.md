@@ -6,7 +6,7 @@
 Acuhi Polythecnic
 
 ## Work Experience
-### Data Analyst at Techrative Technology Limited(June 2024   - Present)
+### Data Analyst at Techrative Technology Limited(Jan 2025   - Present)
 
 - Collaborated with cross-functional teams to gather and analyze large datasets, providing actionable insights that informed strategic business decisions and 
   optimized product performance.
