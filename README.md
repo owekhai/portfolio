@@ -21,20 +21,20 @@ Auchi Polytechnic
 -	Produced 25+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.
 -	Implemented process improvements and automation solutions, resulting in 15%  increase in productivity.
 
-## Ecommerce - Project 								Jan 2023
+## Projects:(Jan 2023 +)
+
+## Ecommerce
 -	Conducted experiments with regression algorithms to identify the most suitable approach.
-## Mtn Project
+## Mtn
 -	Managed data Integrity by handling missing values and encoding categorical variables, enhancing quality by 30%.
 ## Lita
 -	Streamlined data collection and reporting procedures, reducing processing time  by  20% enhancing efficiency.
 -	Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 ## Mall Customers
 -	Cleaned, modelled and analyzed several datasets to uncover insights into content trends to inform strategic decisions.
-### Ecommerce – Project									Jan 2023
+## Ecommerce – Project
 -	Conducted experiments with regression algorithms to identify the most suitable approach.
-### MTN
--	Managed data Integrity by handling missing values and encoding categorical variables, enhancing quality by 30%.
-### Pizza – Analysis
+## Pizza – Analysis
 -	Conducted in-depth market research and analysis, resulting in identification of 10+ key trends and insights that informed strategic decision-making processes.
-### Police-Report
+## Police-Report
 -	Provides a valuable analysis for to explore various trends and patterns in crime, resource allocation, and community needs and also reveal insights into crime hotspots, response times, and areas where proactive policing might be beneficial.
