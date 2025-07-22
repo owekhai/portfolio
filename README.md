@@ -2,7 +2,7 @@
 
 ### Summary
 
-- Results-Driven Data Analyst with 2+ years of experience delivering scalable, high-performance applications. Expert in Python and Sql Language. Successfully led tech initiatives that improved system performance by over 25%, reduce analytical times by half, and boosted customers satisfaction scores within 7 months. Adept at translating complex business problems into robust technical solutions. Passionate about clean code, mentoring and continuous learning.
+- Results-Driven Data Analyst, a critical thinker with 2+ years of experience delivering scalable, high-performance applications. Expert in Python and Sql Language. Successfully led tech initiatives that improved system performance by over 25%, reduce analytical times by half, and boosted customers satisfaction scores within 7 months. Adept at translating complex business problems into robust technical solutions. Passionate about clean code, mentoring and continuous learning.
 
 ### Technical skills: Python, SQL, Power Bi, Excel
 
