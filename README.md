@@ -6,7 +6,7 @@
 
 ### Technical skills: Python, SQL, Power Bi, Excel
 
-### Education
+## Education
 Auchi Polytechnic
 
 ## Experience
