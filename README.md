@@ -11,15 +11,15 @@ Auchi Polytechnic
 
 ## Experience
 ### Data Analyst at Techrative Technology Limited			(June 2023  - Present)
-•	Conducted data cleaning and preprocessing to ensure accuracy and reliability, leading to enhanced data integrity in ongoing projects.
-•	Developed interactive dashboards and visualizations using tools such as Excel, Power point and Power BI, resulting in a 30% improvement in reporting efficiency.
-•	Conducted in-depth market research and analysis, resulting in identification of 10+ key trends and insights that informed strategic decision-making processes
-•	Collaborated with cross-functional teams to gather and analyze large datasets, providing actionable insights that informed strategic business decisions and  optimized product performance.
-•	Additionally, performed A/B testing and statistical analysis to evaluate marketing campaigns, which contributed to a 15% increase in customer engagement.
-•	Implemented process improvements and automation solutions, resulting in 15% increase in productivity.
-•	Cleaned, modelled and analyzed several datasets to uncover insights into content trends to inform strategic decisions.
-•	Produced 25+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.
-•	Implemented process improvements and automation solutions, resulting in 15%  increase in productivity.
+-	Conducted data cleaning and preprocessing to ensure accuracy and reliability, leading to enhanced data integrity in ongoing projects.
+-	Developed interactive dashboards and visualizations using tools such as Excel, Power point and Power BI, resulting in a 30% improvement in reporting efficiency.
+-	Conducted in-depth market research and analysis, resulting in identification of 10+ key trends and insights that informed strategic decision-making processes
+-	Collaborated with cross-functional teams to gather and analyze large datasets, providing actionable insights that informed strategic business decisions and  optimized product performance.
+-	Additionally, performed A/B testing and statistical analysis to evaluate marketing campaigns, which contributed to a 15% increase in customer engagement.
+-	Implemented process improvements and automation solutions, resulting in 15% increase in productivity.
+-	Cleaned, modelled and analyzed several datasets to uncover insights into content trends to inform strategic decisions.
+-	Produced 25+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.
+-	Implemented process improvements and automation solutions, resulting in 15%  increase in productivity.
 
 ## Ecommerce - Project 								Jan 2023
 -	Conducted experiments with regression algorithms to identify the most suitable approach.
