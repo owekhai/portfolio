@@ -21,7 +21,7 @@ Auchi Polytechnic
 -	Produced 25+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.
 -	Implemented process improvements and automation solutions, resulting in 15%  increase in productivity.
 
-## Projects(Jan 2023+):
+## Projects:
 
 ## Ecommerce
 -	Conducted experiments with regression algorithms to identify the most suitable approach.
