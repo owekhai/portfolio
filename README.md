@@ -7,7 +7,7 @@
 ### Technical skills: Python, SQL, Power Bi, Excel
 
 ## Education
-Auchi Polytechnic      August 2013 - 2017
+Auchi Polytechnic --- August 2013 - 2017
 
 ## Experience
 ### Data Analyst at Techrative Technology Limited			(June 2023  - Present)
